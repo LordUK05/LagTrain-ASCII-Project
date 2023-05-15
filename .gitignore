@@ -1,0 +1,7 @@
+#ignore framedump
+FRAMEDUMP/
+build/
+Packaged/
+Display_AsciiDat.spec
+LagTrain.mp4
+len_list.py
